@@ -1,5 +1,3 @@
-# ((((((( BACKUP FORK )))))))
-
 [<img src="https://vercel.com/button" alt="Deploy with Vercel" height="30"/>](https://vercel.com/new/clone?repository-url=https://github.com/dtankdempse/free-iptv-channels/tree/master/node&project-name=multiservice&repo-name=multiservice)
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy with Netlify" height="30"/>](https://app.netlify.com/start/deploy?repository=https://github.com/dtankdempse/free-iptv-channels)
 [<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="30"/>](https://heroku.com/deploy?template=https://github.com/dtankdempse/free-iptv-channels)
@@ -7,7 +5,7 @@
 [<img src="https://i.imgur.com/fjfgTSm.jpeg" alt="Deploy to Fly.io" height="30"/>](https://fly.io/launch?source=https://github.com/dtankdempse/free-iptv-channels)
 [<img src="https://oneclick.amplifyapp.com/button.svg" alt="Deploy to AWS Amplify" height="30"/>](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/dtankdempse/free-iptv-channels)
 
-# Pluto, Samsung, Stirr, Plex, PBS and Roku Playlist (M3U8)
+# Pluto, Samsung, Stirr, Tubi, Plex, PBS and Roku Playlist (M3U8)
 
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, PBS, and Roku. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz).
 
@@ -32,6 +30,7 @@ Choose one of the following services to include in the `service` parameter:
 - PBS
 - PBSKids
 - Stirr
+- Tubi
 
 ### Available Region Parameter Values
 
@@ -114,4 +113,4 @@ this [page](https://github.com/matthuisman/i.mjh.nz/).
 
 ## Disclaimer:
 
-This repository has no control over the streams, links, or the legality of the content provided by Pluto, Samsung, Stirr, Plex, PBS, and Roku. Additionally, this script simply converts the JSON files provided by i.mjh.nz into an M3U8 playlist. It is the end user's responsibility to ensure the legal use of these streams. We strongly recommend verifying that the content complies with the laws and regulations of your country before use.
+This repository has no control over the streams, links, or the legality of the content provided by Pluto, Samsung, Stirr, Tubi, Plex, PBS, and Roku. Additionally, this script simply converts the JSON files provided by i.mjh.nz into an M3U8 playlist. It is the end user's responsibility to ensure the legal use of these streams. We strongly recommend verifying that the content complies with the laws and regulations of your country before use.
